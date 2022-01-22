@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "UserName:" $0
-echo "Password:" $1
+echo "UserName:" $1
+echo "Password:" $0
